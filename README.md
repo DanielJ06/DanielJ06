@@ -15,6 +15,8 @@ Fullstack Developer at [Vendergas](https://vendergas.com.br/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielj06&show_icons=true&theme=dracula&title_color=6633cc&icon_color=6633cc)](https://github.com/danielj06/)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielJ06&theme=tokyonight" alt="DanielJ06" /></p>
+
 ## Studying:
   - Typescript
   - NestJs
