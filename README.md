@@ -24,7 +24,7 @@ Fullstack Developer at [Vendergas](https://vendergas.com.br/)
   - Graphql
   - Tailwindcss
   - Electronjs
-  - GO Enthusiast
+  - GO and Android with Kotlin Enthusiast
   - ... and a lot more stuff
 
 ### ⚡ Feel free to explore my repositories, fork, open PRs, issues, and follow me!
