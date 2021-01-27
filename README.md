@@ -1,5 +1,4 @@
 # Hi, I'm Daniel 👋 :brazil:
-Fullstack Developer at [Vendergas](https://vendergas.com.br/)
 
 [![Twitter Badge](https://img.shields.io/badge/-@danieldxdd-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/danieldxdd)](https://twitter.com/danieldxdd) 
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20de%20Jesus-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danieljrodrigues/)](https://www.linkedin.com/in/danieljrodrigues/) 
