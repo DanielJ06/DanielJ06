@@ -9,7 +9,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielj06&show_icons=true&theme=dracula&title_color=6633cc&icon_color=6633cc)](https://github.com/danielj06/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielj06&count_private=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielj06&count_private=true&theme=dracula&title_color=6633cc&icon_color=6633cc">
 
 ## Studying:
   - Android (Java & Kotlin)
